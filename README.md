@@ -20,6 +20,11 @@
 </ul>
 
 
+
+
+<h2> Preview </h2>
+[Imgur](https://i.imgur.com/upc4az1.png)
+
 <h2> License </h2>
 <p> This project is licensed under the MIT License.</p>
 
