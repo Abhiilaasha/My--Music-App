@@ -11,11 +11,15 @@
 </ul>
 
 
-<h2> Usag e</h2>
+<h2> Usage</h2>
 <ul>
 <li> Play/Pause Button: Click on the play/pause button to start or pause the music.</li>
 <li> Next/Previous Button: Navigate between tracks in the playlist.</li>
 <li> Progress Bar: Click on the progress bar to jump to a specific time in the track.</li>
 <li> Repeat/Shuffle: Toggle between different playback options.</li>
 </ul>
+
+
+<h2> License </h2>
+<p> This project is licensed under the MIT License.</p>
 
