@@ -23,7 +23,7 @@
 
 
 <h2> Preview </h2>
-![Music Player App Screenshot](https://i.imgur.com/upc4az1.png)
+![Music Player App Screenshot](https://imgur.com/upc4az1)
 
 
 <h2> License </h2>
