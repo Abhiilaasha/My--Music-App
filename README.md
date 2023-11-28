@@ -23,7 +23,7 @@
 
 
 <h2> Preview </h2>
-![Alt text](https://imgur.com/upc4az1)
+<a href="https://imgur.com/upc4az1"><img src="https://i.imgur.com/upc4az1.png" title="source: imgur.com" /></a>
 
 
 
