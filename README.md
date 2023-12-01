@@ -1,4 +1,5 @@
 # Music Player Web Application->[Link](https://regal-biscochitos-8bf80e.netlify.app/)
+<h2> About </h2>
 <p> This project is a simple web-based music player application developed using HTML, CSS, and JavaScript. It allows users to play music tracks, manage playlists, and control playback functionalities.</p> 
 
 <h2> Features </h2>
