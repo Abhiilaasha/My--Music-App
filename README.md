@@ -13,7 +13,7 @@
 
 
 
-<h3> Usage</h3>
+<h2> Usage</h2>
 <ul>
 <li> Play/Pause Button: Click on the play/pause button to start or pause the music.</li>
 <li> Next/Previous Button: Navigate between tracks in the playlist.</li>
